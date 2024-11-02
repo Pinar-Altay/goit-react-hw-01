@@ -1,0 +1,24 @@
+/* FriendListItem.module.css */
+.friendCard {
+    border: 2px solid #000;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    width: 100px;
+    margin: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+}
+
+.friendName {
+    font-size: 1.2em;
+    margin: 8px 0;
+}
+
+.online {
+    color: green;
+}
+
+.offline {
+    color: red;
+}
